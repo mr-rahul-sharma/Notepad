@@ -121,7 +121,7 @@ class Notepad:
     # exit()
 
     def __showAbout(self):
-        showinfo("Notepad", "Rahul Sharma\n\nEmail  :   rahultechip@gmail.com")
+        showinfo("Notepad", "Rahul Sharma\n\nrahultechip@gmail.com")
 
     def __openFile(self):
 
